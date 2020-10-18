@@ -1,0 +1,3 @@
+This is a cake report.
+A report on cakes.
+Not a really verbose report.
